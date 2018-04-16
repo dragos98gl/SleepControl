@@ -1,0 +1,9 @@
+E:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\obj\Release\android\assets\SleepControl.dll
+E:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\obj\Release\android\assets\Java.Interop.dll
+E:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\obj\Release\android\assets\Mono.Android.dll
+E:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\obj\Release\android\assets\mscorlib.dll
+E:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\obj\Release\android\assets\System.Core.dll
+E:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\obj\Release\android\assets\System.dll
+E:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\obj\Release\android\assets\Xamarin.Android.Support.v4.dll
+E:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\obj\Release\android\assets\Xamarin.Android.Support.v7.AppCompat.dll
+E:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\obj\Release\android\assets\System.Runtime.Serialization.dll

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:p1="http://schemas.android.com/apk/res/android"
+    p1:minWidth="25px"
+    p1:minHeight="25px"
+    p1:layout_width="match_parent"
+    p1:layout_height="match_parent"
+    p1:id="@+id/relativeLayout1">
+    <RelativeLayout
+        p1:layout_width="295.0dp"
+        p1:layout_height="181.0dp"
+        p1:id="@+id/relativeLayout2"
+        p1:layout_centerInParent="true">
+        <LinearLayout
+            p1:orientation="horizontal"
+            p1:layout_width="match_parent"
+            p1:layout_height="38.0dp"
+            p1:id="@+id/linearLayout1"
+            p1:layout_alignParentBottom="true">
+            <Button
+                p1:text="Anuleaza"
+                p1:layout_width="wrap_content"
+                p1:layout_height="match_parent"
+                p1:id="@+id/button2"
+                p1:layout_weight="0.5" />
+            <Button
+                p1:text="Ok"
+                p1:layout_width="wrap_content"
+                p1:layout_height="match_parent"
+                p1:id="@+id/button1"
+                p1:layout_weight="0.5" />
+        </LinearLayout>
+        <TextView
+            p1:text="Selectati timpul cu care doriti sa fiti anuntat:"
+            p1:layout_width="match_parent"
+            p1:layout_height="wrap_content"
+            p1:id="@+id/textView1"
+            p1:layout_alignParentTop="true"
+            p1:textSize="17dp" />
+        <LinearLayout
+            p1:orientation="horizontal"
+            p1:layout_width="match_parent"
+            p1:layout_height="34.0dp"
+            p1:layout_below="@id/textView1"
+            p1:id="@+id/linearLayout2">
+            <TextView
+                p1:text="Durata de somn dorita:"
+                p1:layout_width="159.5dp"
+                p1:layout_height="match_parent"
+                p1:id="@+id/textView3"
+                p1:gravity="center" />
+            <EditText
+                p1:layout_width="match_parent"
+                p1:layout_height="match_parent"
+                p1:id="@+id/editText1"
+                p1:numeric="integer"
+                p1:gravity="center"
+                p1:text="0" />
+        </LinearLayout>
+        <ListView
+            p1:minWidth="25px"
+            p1:minHeight="25px"
+            p1:layout_width="wrap_content"
+            p1:layout_height="wrap_content"
+            p1:layout_below="@id/linearLayout2"
+            p1:id="@+id/listView1"
+            p1:layout_above="@id/linearLayout1" />
+    </RelativeLayout>
+</RelativeLayout>

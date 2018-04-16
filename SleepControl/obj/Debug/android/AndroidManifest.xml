@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="SleepControl.SleepControl" android:versionCode="1" android:versionName="1.0" android:installLocation="auto">
+  <uses-sdk android:minSdkVersion="19" android:targetSdkVersion="25" />
+  <uses-permission android:name="android.permission.BLUETOOTH" />
+  <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+  <uses-permission android:name="android.permission.VIBRATE" />
+  <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+  <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+  <uses-permission android:name="android.permission.INTERNET" />
+  <application android:label="SleepControl" android:hardwareAccelerated="false" android:name="android.app.Application" android:allowBackup="true" android:debuggable="true">
+    <receiver android:name="md5d0a0005b650bec3eb3ec48634b34725d.AlarmObj_Notification_BroadcastReceiver" />
+    <activity android:screenOrientation="portrait" android:name="md5d0a0005b650bec3eb3ec48634b34725d.MainActivity">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+    <activity android:label="Settings" android:name="md555b39b37a4c7573561b90f4eea09ca83.Settings" />
+    <activity android:screenOrientation="landscape" android:name="md58957e7663e79f7a08d1d734d6aa181a3.Diagram" />
+    <activity android:screenOrientation="portrait" android:name="md57460874f46b950ec6891c69347f0f947.Alarm" />
+    <activity android:label="Alarm_Triggered" android:noHistory="true" android:theme="@android:style/Theme.Translucent.NoTitleBar" android:name="md57460874f46b950ec6891c69347f0f947.Alarm_Triggered" />
+    <activity android:screenOrientation="landscape" android:name="md5ddd9dd28c0ccb6ce2e10b401cdee9d5c.AlarmsChart" />
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="SleepControl.SleepControl.mono.MonoRuntimeProvider.__mono_init__" />
+    <!--suppress ExportedReceiver-->
+    <receiver android:name="mono.android.Seppuku">
+      <intent-filter>
+        <action android:name="mono.android.intent.action.SEPPUKU" />
+        <category android:name="mono.android.intent.category.SEPPUKU.SleepControl.SleepControl" />
+      </intent-filter>
+    </receiver>
+  </application>
+</manifest>

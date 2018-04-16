@@ -1,0 +1,271 @@
+C:\Users\Mihawai\documents\visual studio 2013\Projects\SleepControl\SleepControl\bin\Release\SleepControl.dll
+C:\Users\Mihawai\documents\visual studio 2013\Projects\SleepControl\SleepControl\bin\Release\SleepControl.pdb
+C:\Users\Mihawai\documents\visual studio 2013\Projects\SleepControl\SleepControl\bin\Release\SleepControl.SleepControl.apk
+C:\Users\Mihawai\documents\visual studio 2013\Projects\SleepControl\SleepControl\bin\Release\SleepControl.SleepControl-Signed.apk
+C:\Users\Mihawai\documents\visual studio 2013\Projects\SleepControl\SleepControl\bin\Release\Xamarin.Android.Support.v4.dll
+C:\Users\Mihawai\documents\visual studio 2013\Projects\SleepControl\SleepControl\bin\Release\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\Mihawai\documents\visual studio 2013\Projects\SleepControl\SleepControl\obj\Release\SleepControl.dll
+C:\Users\Mihawai\documents\visual studio 2013\Projects\SleepControl\SleepControl\obj\Release\SleepControl.pdb
+C:\Users\Mihawai\documents\visual studio 2013\Projects\SleepControl\SleepControl\obj\Release\android\bin\SleepControl.SleepControl.apk
+C:\Users\Mihawai\documents\visual studio 2013\Projects\SleepControl\SleepControl\obj\Release\res\layout\alarm.xml
+C:\Users\Mihawai\documents\visual studio 2013\Projects\SleepControl\SleepControl\obj\Release\res\layout\alarm_alarmpopupdialog.xml
+C:\Users\Mihawai\documents\visual studio 2013\Projects\SleepControl\SleepControl\obj\Release\res\layout\alarm_alarmslist.xml
+C:\Users\Mihawai\documents\visual studio 2013\Projects\SleepControl\SleepControl\obj\Release\res\layout\alarm_alarmslist_adapter.xml
+C:\Users\Mihawai\documents\visual studio 2013\Projects\SleepControl\SleepControl\obj\Release\res\layout\alarm_newalarm.xml
+C:\Users\Mihawai\documents\visual studio 2013\Projects\SleepControl\SleepControl\obj\Release\res\layout\alarmbluetoothhandle_userconnect.xml
+C:\Users\Mihawai\documents\visual studio 2013\Projects\SleepControl\SleepControl\obj\Release\res\layout\main.xml
+C:\Users\Mihawai\documents\visual studio 2013\Projects\SleepControl\SleepControl\obj\Release\res\layout\settings.xml
+C:\Users\Mihawai\documents\visual studio 2013\Projects\SleepControl\SleepControl\obj\Release\res\layout\settings_adapter.xml
+C:\Users\Mihawai\documents\visual studio 2013\Projects\SleepControl\SleepControl\obj\Release\res\layout\settings_soundadapter.xml
+C:\Users\Mihawai\documents\visual studio 2013\Projects\SleepControl\SleepControl\obj\Release\res\layout\settings_soundlineadapter.xml
+C:\Users\Mihawai\documents\visual studio 2013\Projects\SleepControl\SleepControl\obj\Release\res\layout\settings_volumeadapter.xml
+C:\Users\Mihawai\documents\visual studio 2013\Projects\SleepControl\SleepControl\obj\Release\res\layout\sleepchart.xml
+C:\Users\Mihawai\documents\visual studio 2013\Projects\SleepControl\SleepControl\obj\Release\res\values\strings.xml
+C:\Users\Mihawai\documents\visual studio 2013\Projects\SleepControl\SleepControl\obj\Release\res\menu\optiunialarma.xml
+C:\Users\Mihawai\documents\visual studio 2013\Projects\SleepControl\SleepControl\obj\Release\res\drawable\alarmchoice.png
+C:\Users\Mihawai\documents\visual studio 2013\Projects\SleepControl\SleepControl\obj\Release\res\drawable\alarmchoice_icon.png
+C:\Users\Mihawai\documents\visual studio 2013\Projects\SleepControl\SleepControl\obj\Release\res\drawable\alarmwallpaper.png
+C:\Users\Mihawai\documents\visual studio 2013\Projects\SleepControl\SleepControl\obj\Release\res\drawable\bluetoothsync.png
+C:\Users\Mihawai\documents\visual studio 2013\Projects\SleepControl\SleepControl\obj\Release\res\drawable\clock.png
+C:\Users\Mihawai\documents\visual studio 2013\Projects\SleepControl\SleepControl\obj\Release\res\drawable\createalarm.png
+C:\Users\Mihawai\documents\visual studio 2013\Projects\SleepControl\SleepControl\obj\Release\res\drawable\diagram.png
+C:\Users\Mihawai\documents\visual studio 2013\Projects\SleepControl\SleepControl\obj\Release\res\drawable\icon.png
+C:\Users\Mihawai\documents\visual studio 2013\Projects\SleepControl\SleepControl\obj\Release\res\drawable\info.png
+C:\Users\Mihawai\documents\visual studio 2013\Projects\SleepControl\SleepControl\obj\Release\res\drawable\marginiovaleargintiu.xml
+C:\Users\Mihawai\documents\visual studio 2013\Projects\SleepControl\SleepControl\obj\Release\res\drawable\marginiovalenegru.xml
+C:\Users\Mihawai\documents\visual studio 2013\Projects\SleepControl\SleepControl\obj\Release\res\drawable\melody.png
+C:\Users\Mihawai\documents\visual studio 2013\Projects\SleepControl\SleepControl\obj\Release\res\drawable\settings.png
+C:\Users\Mihawai\documents\visual studio 2013\Projects\SleepControl\SleepControl\obj\Release\res\drawable\volume.png
+C:\Users\Mihawai\documents\visual studio 2013\Projects\SleepControl\SleepControl\obj\Release\res\drawable\wallpaper.png
+C:\Users\Mihawai\documents\visual studio 2013\Projects\SleepControl\SleepControl\obj\Release\R.cs.flag
+C:\Users\Mihawai\documents\visual studio 2013\Projects\SleepControl\SleepControl\obj\Release\uploadflags.txt
+C:\Users\Mihawai\documents\visual studio 2013\Projects\SleepControl\SleepControl\bin\Release\SleepControl.dll.mdb
+C:\Users\Mihawai\documents\visual studio 2013\Projects\SleepControl\SleepControl\obj\Release\SleepControl.csprojResolveAssemblyReference.cache
+C:\Users\Mihawai\documents\visual studio 2013\Projects\SleepControl\SleepControl\obj\Release\res\layout\diagram.xml
+C:\Users\Mihawai\documents\visual studio 2013\Projects\SleepControl\SleepControl\bin\Release\Java.Interop.dll.mdb
+C:\Users\Mihawai\documents\visual studio 2013\Projects\SleepControl\SleepControl\bin\Release\Mono.Android.dll.mdb
+C:\Users\Mihawai\documents\visual studio 2013\Projects\SleepControl\SleepControl\bin\Release\mscorlib.dll.mdb
+C:\Users\Mihawai\documents\visual studio 2013\Projects\SleepControl\SleepControl\bin\Release\System.ComponentModel.Composition.dll.mdb
+C:\Users\Mihawai\documents\visual studio 2013\Projects\SleepControl\SleepControl\bin\Release\System.Core.dll.mdb
+C:\Users\Mihawai\documents\visual studio 2013\Projects\SleepControl\SleepControl\bin\Release\System.dll.mdb
+C:\Users\Mihawai\documents\visual studio 2013\Projects\SleepControl\SleepControl\bin\Release\System.Net.Http.dll.mdb
+C:\Users\Mihawai\documents\visual studio 2013\Projects\SleepControl\SleepControl\bin\Release\System.Runtime.Serialization.dll.mdb
+C:\Users\Mihawai\documents\visual studio 2013\Projects\SleepControl\SleepControl\bin\Release\System.ServiceModel.Internals.dll.mdb
+C:\Users\Mihawai\documents\visual studio 2013\Projects\SleepControl\SleepControl\bin\Release\System.Xml.dll.mdb
+C:\Users\Mihawai\documents\visual studio 2013\Projects\SleepControl\SleepControl\bin\Release\System.Xml.Linq.dll.mdb
+C:\Users\Mihawai\documents\visual studio 2013\Projects\SleepControl\SleepControl\obj\Release\android\assets\Java.Interop.dll.mdb
+C:\Users\Mihawai\documents\visual studio 2013\Projects\SleepControl\SleepControl\obj\Release\android\assets\Mono.Android.dll.mdb
+C:\Users\Mihawai\documents\visual studio 2013\Projects\SleepControl\SleepControl\obj\Release\android\assets\mscorlib.dll.mdb
+C:\Users\Mihawai\documents\visual studio 2013\Projects\SleepControl\SleepControl\obj\Release\android\assets\SleepControl.dll.mdb
+C:\Users\Mihawai\documents\visual studio 2013\Projects\SleepControl\SleepControl\obj\Release\android\assets\System.Core.dll.mdb
+C:\Users\Mihawai\documents\visual studio 2013\Projects\SleepControl\SleepControl\obj\Release\android\assets\System.dll.mdb
+C:\Users\Mihawai\documents\visual studio 2013\Projects\SleepControl\SleepControl\obj\Release\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\Mihawai\documents\visual studio 2013\Projects\SleepControl\SleepControl\obj\Release\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\Mihawai\documents\visual studio 2013\Projects\SleepControl\SleepControl\obj\Release\android\assets\System.Xml.dll.mdb
+C:\Users\Mihawai\documents\visual studio 2013\Projects\SleepControl\SleepControl\obj\Release\res\layout\alarm_newalarm_remindme.xml
+C:\Users\Mihawai\documents\visual studio 2013\Projects\SleepControl\SleepControl\obj\Release\res\layout\alarm_newalarm_remindme_adapter.xml
+C:\Users\Mihawai\documents\visual studio 2013\Projects\SleepControl\SleepControl\obj\Release\res\drawable\iconnotification.png
+C:\Users\Mihawai\Documents\Visual Studio 2013\Projects\SleepControl\SleepControl\obj\Release\SleepControl.dll.mdb
+D:\C#\Visual Studio 2013\Projects\SleepControl_OK\SleepControl\obj\Release\SleepControl.csprojResolveAssemblyReference.cache
+D:\C#\Visual Studio 2013\Projects\SleepControl_OK\SleepControl\obj\Release\SleepControl.dll
+D:\C#\Visual Studio 2013\Projects\SleepControl_OK\SleepControl\obj\Release\SleepControl.pdb
+D:\C#\Visual Studio 2013\Projects\SleepControl_OK - Copie\SleepControl\obj\Release\SleepControl.csprojResolveAssemblyReference.cache
+D:\C#\Visual Studio 2013\Projects\SleepControl_OK - Copie\SleepControl\obj\Release\SleepControl.dll
+D:\C#\Visual Studio 2013\Projects\SleepControl_OK - Copie\SleepControl\obj\Release\SleepControl.pdb
+D:\C#\Visual Studio 2013\Projects\SleepControl_OK - Copie\SleepControl\bin\Release\SleepControl.dll
+D:\C#\Visual Studio 2013\Projects\SleepControl_OK - Copie\SleepControl\bin\Release\SleepControl.pdb
+D:\C#\Visual Studio 2013\Projects\SleepControl_OK - Copie\SleepControl\bin\Release\SleepControl.SleepControl.apk
+D:\C#\Visual Studio 2013\Projects\SleepControl_OK - Copie\SleepControl\bin\Release\SleepControl.SleepControl-Signed.apk
+D:\C#\Visual Studio 2013\Projects\SleepControl_OK - Copie\SleepControl\bin\Release\Xamarin.Android.Support.v4.dll
+D:\C#\Visual Studio 2013\Projects\SleepControl_OK - Copie\SleepControl\bin\Release\Xamarin.Android.Support.v7.AppCompat.dll
+D:\C#\Visual Studio 2013\Projects\SleepControl_OK - Copie\SleepControl\obj\Release\android\bin\SleepControl.SleepControl.apk
+D:\C#\Visual Studio 2013\Projects\SleepControl_OK - Copie\SleepControl\obj\Release\res\layout\alarm.xml
+D:\C#\Visual Studio 2013\Projects\SleepControl_OK - Copie\SleepControl\obj\Release\res\layout\alarm_alarmpopupdialog.xml
+D:\C#\Visual Studio 2013\Projects\SleepControl_OK - Copie\SleepControl\obj\Release\res\layout\alarm_alarmslist.xml
+D:\C#\Visual Studio 2013\Projects\SleepControl_OK - Copie\SleepControl\obj\Release\res\layout\alarm_alarmslist_adapter.xml
+D:\C#\Visual Studio 2013\Projects\SleepControl_OK - Copie\SleepControl\obj\Release\res\layout\alarm_newalarm.xml
+D:\C#\Visual Studio 2013\Projects\SleepControl_OK - Copie\SleepControl\obj\Release\res\layout\alarmbluetoothhandle_userconnect.xml
+D:\C#\Visual Studio 2013\Projects\SleepControl_OK - Copie\SleepControl\obj\Release\res\layout\main.xml
+D:\C#\Visual Studio 2013\Projects\SleepControl_OK - Copie\SleepControl\obj\Release\res\layout\settings.xml
+D:\C#\Visual Studio 2013\Projects\SleepControl_OK - Copie\SleepControl\obj\Release\res\layout\settings_adapter.xml
+D:\C#\Visual Studio 2013\Projects\SleepControl_OK - Copie\SleepControl\obj\Release\res\layout\settings_soundadapter.xml
+D:\C#\Visual Studio 2013\Projects\SleepControl_OK - Copie\SleepControl\obj\Release\res\layout\settings_soundlineadapter.xml
+D:\C#\Visual Studio 2013\Projects\SleepControl_OK - Copie\SleepControl\obj\Release\res\layout\settings_volumeadapter.xml
+D:\C#\Visual Studio 2013\Projects\SleepControl_OK - Copie\SleepControl\obj\Release\res\layout\sleepchart.xml
+D:\C#\Visual Studio 2013\Projects\SleepControl_OK - Copie\SleepControl\obj\Release\res\layout\diagram.xml
+D:\C#\Visual Studio 2013\Projects\SleepControl_OK - Copie\SleepControl\obj\Release\res\layout\alarm_newalarm_remindme.xml
+D:\C#\Visual Studio 2013\Projects\SleepControl_OK - Copie\SleepControl\obj\Release\res\layout\alarm_newalarm_remindme_adapter.xml
+D:\C#\Visual Studio 2013\Projects\SleepControl_OK - Copie\SleepControl\obj\Release\res\values\strings.xml
+D:\C#\Visual Studio 2013\Projects\SleepControl_OK - Copie\SleepControl\obj\Release\res\menu\optiunialarma.xml
+D:\C#\Visual Studio 2013\Projects\SleepControl_OK - Copie\SleepControl\obj\Release\res\drawable\alarmchoice.png
+D:\C#\Visual Studio 2013\Projects\SleepControl_OK - Copie\SleepControl\obj\Release\res\drawable\alarmchoice_icon.png
+D:\C#\Visual Studio 2013\Projects\SleepControl_OK - Copie\SleepControl\obj\Release\res\drawable\alarmwallpaper.png
+D:\C#\Visual Studio 2013\Projects\SleepControl_OK - Copie\SleepControl\obj\Release\res\drawable\bluetoothsync.png
+D:\C#\Visual Studio 2013\Projects\SleepControl_OK - Copie\SleepControl\obj\Release\res\drawable\clock.png
+D:\C#\Visual Studio 2013\Projects\SleepControl_OK - Copie\SleepControl\obj\Release\res\drawable\createalarm.png
+D:\C#\Visual Studio 2013\Projects\SleepControl_OK - Copie\SleepControl\obj\Release\res\drawable\diagram.png
+D:\C#\Visual Studio 2013\Projects\SleepControl_OK - Copie\SleepControl\obj\Release\res\drawable\info.png
+D:\C#\Visual Studio 2013\Projects\SleepControl_OK - Copie\SleepControl\obj\Release\res\drawable\marginiovaleargintiu.xml
+D:\C#\Visual Studio 2013\Projects\SleepControl_OK - Copie\SleepControl\obj\Release\res\drawable\marginiovalenegru.xml
+D:\C#\Visual Studio 2013\Projects\SleepControl_OK - Copie\SleepControl\obj\Release\res\drawable\melody.png
+D:\C#\Visual Studio 2013\Projects\SleepControl_OK - Copie\SleepControl\obj\Release\res\drawable\settings.png
+D:\C#\Visual Studio 2013\Projects\SleepControl_OK - Copie\SleepControl\obj\Release\res\drawable\volume.png
+D:\C#\Visual Studio 2013\Projects\SleepControl_OK - Copie\SleepControl\obj\Release\res\drawable\wallpaper.png
+D:\C#\Visual Studio 2013\Projects\SleepControl_OK - Copie\SleepControl\obj\Release\res\drawable\icon.png
+D:\C#\Visual Studio 2013\Projects\SleepControl_OK - Copie\SleepControl\obj\Release\res\drawable\iconnotification.png
+D:\C#\Visual Studio 2013\Projects\SleepControl_OK - Copie\SleepControl\obj\Release\R.cs.flag
+D:\C#\Visual Studio 2013\Projects\SleepControl_OK - Copie\SleepControl\obj\Release\uploadflags.txt
+D:\C#\Visual Studio 2013\Projects\SleepControl_OK - Copie\SleepControl\bin\Release\Java.Interop.dll.mdb
+D:\C#\Visual Studio 2013\Projects\SleepControl_OK - Copie\SleepControl\bin\Release\Mono.Android.dll.mdb
+D:\C#\Visual Studio 2013\Projects\SleepControl_OK - Copie\SleepControl\bin\Release\mscorlib.dll.mdb
+D:\C#\Visual Studio 2013\Projects\SleepControl_OK - Copie\SleepControl\bin\Release\SleepControl.dll.mdb
+D:\C#\Visual Studio 2013\Projects\SleepControl_OK - Copie\SleepControl\bin\Release\System.ComponentModel.Composition.dll.mdb
+D:\C#\Visual Studio 2013\Projects\SleepControl_OK - Copie\SleepControl\bin\Release\System.Core.dll.mdb
+D:\C#\Visual Studio 2013\Projects\SleepControl_OK - Copie\SleepControl\bin\Release\System.dll.mdb
+D:\C#\Visual Studio 2013\Projects\SleepControl_OK - Copie\SleepControl\bin\Release\System.Net.Http.dll.mdb
+D:\C#\Visual Studio 2013\Projects\SleepControl_OK - Copie\SleepControl\bin\Release\System.Runtime.Serialization.dll.mdb
+D:\C#\Visual Studio 2013\Projects\SleepControl_OK - Copie\SleepControl\bin\Release\System.ServiceModel.Internals.dll.mdb
+D:\C#\Visual Studio 2013\Projects\SleepControl_OK - Copie\SleepControl\bin\Release\System.Xml.dll.mdb
+D:\C#\Visual Studio 2013\Projects\SleepControl_OK - Copie\SleepControl\bin\Release\System.Xml.Linq.dll.mdb
+D:\C#\Visual Studio 2013\Projects\SleepControl_OK - Copie\SleepControl\obj\Release\android\assets\Java.Interop.dll.mdb
+D:\C#\Visual Studio 2013\Projects\SleepControl_OK - Copie\SleepControl\obj\Release\android\assets\Mono.Android.dll.mdb
+D:\C#\Visual Studio 2013\Projects\SleepControl_OK - Copie\SleepControl\obj\Release\android\assets\mscorlib.dll.mdb
+D:\C#\Visual Studio 2013\Projects\SleepControl_OK - Copie\SleepControl\obj\Release\android\assets\SleepControl.dll.mdb
+D:\C#\Visual Studio 2013\Projects\SleepControl_OK - Copie\SleepControl\obj\Release\android\assets\System.Core.dll.mdb
+D:\C#\Visual Studio 2013\Projects\SleepControl_OK - Copie\SleepControl\obj\Release\android\assets\System.dll.mdb
+D:\C#\Visual Studio 2013\Projects\SleepControl_OK - Copie\SleepControl\obj\Release\android\assets\System.Runtime.Serialization.dll.mdb
+D:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\bin\Release\SleepControl.dll
+D:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\bin\Release\SleepControl.pdb
+D:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\bin\Release\SleepControl.SleepControl.apk
+D:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\bin\Release\SleepControl.SleepControl-Signed.apk
+D:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\bin\Release\Xamarin.Android.Support.v4.dll
+D:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\bin\Release\Xamarin.Android.Support.v7.AppCompat.dll
+D:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\obj\Release\SleepControl.csprojResolveAssemblyReference.cache
+D:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\obj\Release\SleepControl.dll
+D:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\obj\Release\SleepControl.pdb
+D:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\obj\Release\android\bin\SleepControl.SleepControl.apk
+D:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\obj\Release\res\layout\alarm.xml
+D:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\obj\Release\res\layout\alarm_alarmpopupdialog.xml
+D:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\obj\Release\res\layout\alarm_alarmslist.xml
+D:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\obj\Release\res\layout\alarm_alarmslist_adapter.xml
+D:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\obj\Release\res\layout\alarm_newalarm.xml
+D:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\obj\Release\res\layout\alarmbluetoothhandle_userconnect.xml
+D:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\obj\Release\res\layout\main.xml
+D:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\obj\Release\res\layout\settings.xml
+D:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\obj\Release\res\layout\settings_adapter.xml
+D:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\obj\Release\res\layout\settings_soundadapter.xml
+D:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\obj\Release\res\layout\settings_soundlineadapter.xml
+D:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\obj\Release\res\layout\settings_volumeadapter.xml
+D:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\obj\Release\res\layout\sleepchart.xml
+D:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\obj\Release\res\layout\diagram.xml
+D:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\obj\Release\res\layout\alarm_newalarm_remindme.xml
+D:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\obj\Release\res\layout\alarm_newalarm_remindme_adapter.xml
+D:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\obj\Release\res\layout\alarm_newalarm_firealert.xml
+D:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\obj\Release\res\values\strings.xml
+D:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\obj\Release\res\menu\optiunialarma.xml
+D:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\obj\Release\res\drawable\alarmchoice.png
+D:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\obj\Release\res\drawable\alarmchoice_icon.png
+D:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\obj\Release\res\drawable\alarmwallpaper.png
+D:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\obj\Release\res\drawable\bluetoothsync.png
+D:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\obj\Release\res\drawable\clock.png
+D:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\obj\Release\res\drawable\createalarm.png
+D:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\obj\Release\res\drawable\diagram.png
+D:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\obj\Release\res\drawable\info.png
+D:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\obj\Release\res\drawable\marginiovaleargintiu.xml
+D:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\obj\Release\res\drawable\marginiovalenegru.xml
+D:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\obj\Release\res\drawable\melody.png
+D:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\obj\Release\res\drawable\settings.png
+D:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\obj\Release\res\drawable\volume.png
+D:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\obj\Release\res\drawable\wallpaper.png
+D:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\obj\Release\res\drawable\icon.png
+D:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\obj\Release\res\drawable\iconnotification.png
+D:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\obj\Release\R.cs.flag
+D:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\obj\Release\uploadflags.txt
+D:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\obj\Release\android\assets\Java.Interop.dll.mdb
+D:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\obj\Release\android\assets\Mono.Android.dll.mdb
+D:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\obj\Release\android\assets\mscorlib.dll.mdb
+D:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\obj\Release\android\assets\SleepControl.dll.mdb
+D:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\obj\Release\android\assets\System.Core.dll.mdb
+D:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\obj\Release\android\assets\System.dll.mdb
+D:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\obj\Release\android\assets\System.Runtime.Serialization.dll.mdb
+D:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\bin\Release\SleepControl.dll.mdb
+E:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\bin\Release\SleepControl.dll
+E:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\bin\Release\SleepControl.pdb
+E:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\bin\Release\SleepControl.SleepControl.apk
+E:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\bin\Release\SleepControl.SleepControl-Signed.apk
+E:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\bin\Release\Xamarin.Android.Support.v4.dll
+E:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\bin\Release\Xamarin.Android.Support.v7.AppCompat.dll
+E:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\obj\Release\SleepControl.csprojResolveAssemblyReference.cache
+E:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\obj\Release\SleepControl.csproj.CoreCompileInputs.cache
+E:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\obj\Release\SleepControl.dll
+E:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\obj\Release\SleepControl.pdb
+E:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\obj\Release\android\bin\SleepControl.SleepControl.apk
+E:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\obj\Release\res\layout\alarm.xml
+E:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\obj\Release\res\layout\alarm_alarmpopupdialog.xml
+E:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\obj\Release\res\layout\alarm_alarmslist.xml
+E:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\obj\Release\res\layout\alarm_alarmslist_adapter.xml
+E:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\obj\Release\res\layout\alarm_newalarm.xml
+E:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\obj\Release\res\layout\alarmbluetoothhandle_userconnect.xml
+E:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\obj\Release\res\layout\main.xml
+E:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\obj\Release\res\layout\settings.xml
+E:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\obj\Release\res\layout\settings_adapter.xml
+E:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\obj\Release\res\layout\settings_soundadapter.xml
+E:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\obj\Release\res\layout\settings_soundlineadapter.xml
+E:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\obj\Release\res\layout\settings_volumeadapter.xml
+E:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\obj\Release\res\layout\sleepchart.xml
+E:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\obj\Release\res\layout\diagram.xml
+E:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\obj\Release\res\layout\alarm_newalarm_remindme.xml
+E:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\obj\Release\res\layout\alarm_newalarm_remindme_adapter.xml
+E:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\obj\Release\res\layout\alarm_newalarm_firealert.xml
+E:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\obj\Release\res\values\strings.xml
+E:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\obj\Release\res\menu\optiunialarma.xml
+E:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\obj\Release\res\drawable\alarmchoice.png
+E:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\obj\Release\res\drawable\alarmchoice_icon.png
+E:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\obj\Release\res\drawable\alarmwallpaper.png
+E:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\obj\Release\res\drawable\bluetoothsync.png
+E:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\obj\Release\res\drawable\clock.png
+E:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\obj\Release\res\drawable\createalarm.png
+E:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\obj\Release\res\drawable\diagram.png
+E:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\obj\Release\res\drawable\info.png
+E:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\obj\Release\res\drawable\marginiovaleargintiu.xml
+E:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\obj\Release\res\drawable\marginiovalenegru.xml
+E:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\obj\Release\res\drawable\melody.png
+E:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\obj\Release\res\drawable\settings.png
+E:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\obj\Release\res\drawable\volume.png
+E:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\obj\Release\res\drawable\wallpaper.png
+E:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\obj\Release\res\drawable\icon.png
+E:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\obj\Release\res\drawable\iconnotification.png
+E:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\obj\Release\R.cs.flag
+E:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\obj\Release\uploadflags.txt
+E:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\bin\Release\SleepControl.dll.mdb
+E:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\obj\Release\android\assets\Java.Interop.dll.mdb
+E:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\obj\Release\android\assets\Mono.Android.dll.mdb
+E:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\obj\Release\android\assets\mscorlib.dll.mdb
+E:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\obj\Release\android\assets\SleepControl.dll.mdb
+E:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\obj\Release\android\assets\System.Core.dll.mdb
+E:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\obj\Release\android\assets\System.dll.mdb
+E:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\obj\Release\android\assets\System.Runtime.Serialization.dll.mdb
+E:\C#\Visual Studio 2013\Projects\SleepControl\SleepControl\bin\Release\SleepControl.dll
+bin\Release\Mono.Android.pdb
+bin\Release\mscorlib.pdb
+bin\Release\System.Core.pdb
+bin\Release\System.pdb
+bin\Release\System.Xml.pdb
+bin\Release\System.Xml.Linq.pdb
+bin\Release\System.Net.Http.pdb
+bin\Release\System.Runtime.Serialization.pdb
+bin\Release\System.ServiceModel.Internals.pdb
+bin\Release\Mono.Security.pdb
+bin\Release\System.ComponentModel.Composition.pdb
+obj\Release\linksrc\SleepControl.dll.mdb
+obj\Release\linksrc\Mono.Android.pdb
+obj\Release\linksrc\mscorlib.pdb
+obj\Release\linksrc\System.Core.pdb
+obj\Release\linksrc\System.pdb
+obj\Release\linksrc\System.Xml.pdb
+obj\Release\linksrc\System.Xml.Linq.pdb
+obj\Release\linksrc\System.Net.Http.pdb
+obj\Release\linksrc\System.Runtime.Serialization.pdb
+obj\Release\linksrc\System.ServiceModel.Internals.pdb
+obj\Release\linksrc\Mono.Security.pdb
+obj\Release\linksrc\System.ComponentModel.Composition.pdb
